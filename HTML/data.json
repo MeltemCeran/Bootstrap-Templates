@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Bardak",
+    "price": "10 TL",
+    "description": "Bardak",
+    "image": "https://picsum.photos/200/300?random=1"
+  },
+  {
+    "id": 1,
+    "title": "Bardak",
+    "price": "10 TL",
+    "description": "Bardak",
+    "image": "https://picsum.photos/200/300?random=2"
+  },
+  {
+    "id": 1,
+    "title": "Bardak",
+    "price": "10 TL",
+    "description": "Bardak",
+    "image": "https://picsum.photos/200/300?random=3"
+  },
+  {
+    "id": 1,
+    "title": "Bardak",
+    "price": "10 TL",
+    "description": "Bardak",
+    "image": "https://picsum.photos/200/300?random=4"
+  },
+  {
+    "id": 1,
+    "title": "Bardak",
+    "price": "10 TL",
+    "description": "Bardak",
+    "image": "https://picsum.photos/200/300?random=5"
+  },
+  {
+    "id": 1,
+    "title": "Bardak",
+    "price": "10 TL",
+    "description": "Bardak",
+    "image": "https://picsum.photos/200/300?random=6"
+  }
+]

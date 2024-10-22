@@ -1,0 +1,14 @@
+#box {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+.bisey {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: auto;
+  justify-content: center;
+}
